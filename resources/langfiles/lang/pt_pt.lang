@@ -139,6 +139,7 @@ susy.material.acetic_anhydride_catalyst=Catalisador de Anidrido Acético
 susy.material.green_vitriol=Vitríolo Verde
 susy.material.nitrosylsulfuric_acid=Ácido Nitrosilsulfúrico
 susy.material.lead_chamber_reaction_mixture=Mistura Reacional das Câmaras de Chumbo
+
 susy.material.iron_ii_sulfide=Sulfeto de Ferro (II)
 susy.material.potassium_bisulfate=Bissulfato de Potássio
 susy.material.potassium_sulfate=Sulfato de potássio
@@ -189,12 +190,14 @@ susy.material.potassium_fluoride=Fluoreto de Potássio
 susy.material.carburized_stainless_steel=Aço Inoxidável Cementado
 susy.material.ferrochromium=Ferrocrómio
 susy.material.ferrosilicon=Ferrossilício
+
 susy.material.cellulose=Celulose
 susy.material.raw_cellulose=Celulose Bruta
 susy.material.white_liquor=Licor Branco
 susy.material.black_liquor=Licor Negro
 susy.material.concentrated_black_liquor=Licor Negro Concentrado
 susy.material.green_liquor=Licor Verde
+
 susy.material.organosilicon_mixture=Mistura de Organossilício
 susy.material.impure_polydimethylsiloxane_mixture=Mistura de Polidimetilsiloxano Impuro
 susy.material.raw_polydimethylsiloxane_mixture=Mistura de Polidimetilsiloxano Bruto
@@ -203,6 +206,7 @@ susy.material.trimethylsilane=Trimetilsilano
 susy.material.methyldichlorosilane=Metildiclorossilano
 susy.material.methyltrichlorosilane=Metiltriclorossilano
 susy.material.dimethyldichlorosilane=Dimetildiclorossilano
+
 susy.material.impure_bertrandite_leach=Lixiviação de Bertrandita Impura
 susy.material.bertrandite_leach=Lixiviação de Bertrandita
 susy.material.ammonium_alum=Alúmen de Amónio
@@ -213,6 +217,7 @@ susy.material.basic_beryllium_carbonate_solution=Solução Básica de Carbonato 
 susy.material.purified_beryllium_hydroxide=Hidróxido de Berílio Purificado
 susy.material.purified_beryllium_oxide=Óxido de Berílio Purificado
 susy.material.purified_beryllium_chloride=Cloreto de Berílio Purificado
+
 susy.material.aniline=Anilina
 susy.material.acetanilide=Acetanilida
 susy.material.n_acetylsulfanilyl_chloride=Cloreto de N-Acetilsulfanililo
@@ -247,17 +252,21 @@ susy.material.zinc_hydroxide=Hidróxido de Zinco
 
 susy.material.pig_iron=Ferro-Gusa
 susy.material.iron_iii_sulfate=Sulfato de Ferro (III)
+
 susy.material.aluminium_hydroxide=Hidróxido de Alumínio
 susy.material.aluminium_fluoride=Fluoreto de Alumínio
 susy.material.sodium_fluoride=Fluoreto de Sódio
+
 susy.material.gallium_phosphate=Fosfato de Gálio
 susy.material.lithium_niobate=Niobato de Lítio
 susy.material.lead_zirconate_titanate=Titanato de Zircónato de Chumbo
 susy.material.polyvinylidene_fluoride=Fluoreto de Polivinilideno (PVDF)
+
 susy.material.polymethyl_methacrylate=Polimetilmetacrilato (PMMA)
 susy.material.zinc_chloride=Cloreto de Zinco
 susy.material.polypropylene=Polipropileno
 susy.material.hydrogen_silsesquioxane=Silsesquioxano de Hidrogénio (HSQ)
+
 susy.material.high_purity_lithium=Lítio de Alta Pureza
 susy.material.high_purity_beryllium=Berílio de Alta Pureza
 susy.material.high_purity_boron=Boro de Alta Pureza
@@ -330,6 +339,7 @@ susy.material.high_purity_thulium=Túlio de Alta Pureza
 susy.material.high_purity_ytterbium=Itérbio de Alta Pureza
 susy.material.high_purity_lutetium=Lutécio de Alta Pureza
 susy.material.high_purity_thorium=Tório de Alta Pureza
+
 susy.material.amorphous_boron=Boro Amorfo
 susy.material.magnesium_oxide=Óxido de Magnésio
 susy.material.boron_trioxide=Trióxido de Boro
@@ -338,6 +348,7 @@ susy.material.sodium_tetraborate=Tetraborato de Sódio
 susy.material.boron_carbide=Carbeto de Boro
 susy.material.potassium_tetrafluoroborate=Tetrafluoroborato de Potássio
 susy.material.electrolytic_boron=Boro Eletrolítico
+
 susy.material.methylenedianiline=Metilenodianilina
 susy.material.methylene_diphenyl_diisocyanate=Diisocianato de Difenilmetano
 susy.material.triethylenediamine=Trietilenodiamina
@@ -345,11 +356,15 @@ susy.material.polyurethane=Espuma de Poliuretano
 susy.material.rayon=Raiom
 susy.material.alkali_cellulose=Celulose Alcalina
 susy.material.sodium_cellulose_xanthate=Xantato de Celulose de Sódio
+
 susy.material.sodium_bromide=Brometo de Sódio
+
 susy.material.roasted_sperrylite=Sperrylite Ustulada
 susy.material.enargite_residue=Resíduo de Enargita
+
 susy.material.cobaltite_leach_solution=Solução de Lixiviação de Cobaltite
 susy.material.arsenopyrite_leach_solution=Solução de Lixiviação de Arsenopirita
+
 susy.material.arsenic_iii_sulfide=Sulfeto de Arsénio (III)
 susy.material.arsenic_v_sulfide=Sulfeto de Arsénico (III)
 susy.material.silver_chloride=Cloreto de Prata
@@ -363,10 +378,12 @@ susy.material.silver_sulfide=Sulfeto de Prata
 susy.material.iron_thioantimonite=Tioantimonito de Ferro
 susy.material.iron_thioarsenite=Tioarsenito de Ferro
 susy.material.iron_pentacarbonyl=Pentacarbonilo de Ferro
+
 susy.material.crude_gallium_trichloride=Tricloreto de Gálio Bruto
 susy.material.mercury_ii_chloride=Cloreto de Mercúrio (II)
 susy.material.boron_nitride=Nitreto de Boro
 susy.material.gallium_arsenide=Arsenieto de Gálio Puro
+
 susy.material.monocalcium_phosphate=Fosfato Monocálcico
 susy.material.calcium_metaphosphate=Metafosfato de Cálcio
 susy.material.phosphorus=Fósforo Branco
@@ -376,6 +393,7 @@ susy.material.pyrazine=Pirazina
 susy.material.molybdenum_disilicide=Dissilicieto de Molibdénio
 susy.material.aluminosilicate_mix=Mistura de Aluminosilicatos
 susy.material.mo_si_precursor=Precursor de Mo-Si
+
 susy.material.anorthositic_regolith=Regolito Anortosítico
 susy.material.basaltic_regolith=Regolito Basáltico
 susy.material.kreep_regolith=Regolito KREEP
@@ -431,6 +449,7 @@ susy.material.wet_sodium_polyacrylate=Neoprene
 susy.material.sodium_polyacrylate=Poliacrilato de Sódio
 susy.material.diisopropyl_dixanthogen_disulfide=Dissulfureto de Diisopropil Dixantogênio
 susy.material.neoprene_latex=Látex de Neoprene
+
 metaitem.scrap.military.name=Sucata Militar
 metaitem.scrap.supply.name=Sucata de Fornecimento
 metaitem.scrap.commercial.name=Sucata Comercial
@@ -452,10 +471,12 @@ metaitem.scrap.parts.engine.name=Sucata de Motores
 metaitem.scrap.parts.cladding.name=Sucata de Revestimento
 metaitem.scrap.parts.energy.name=Resíduos Energéticos
 metaitem.scrap.unusable.name=Sucata Inutilizável
+
 metaitem.food.protein_paste.name=Pasta Proteica
 metaitem.food.cellulose_reformate.name=Reformado de Celulose
 metaitem.food.glue_pizza.name=Pizza Colada
 metaitem.food.organic_ocean_powder.name=Pó Orgânico do Oceano
+
 metaitem.minecart_wheels.chromoly.name=ER6 Rodas de Vagoneta
 metaitem.lunar_r_glass_fibers.name=Fibras de Vidro-R Lunar
 metaitem.hardened_titanium_grinding_head.name=Cabeça de Retificação de Titânio Endurecido
@@ -512,27 +533,31 @@ metaitem.astronaut_boots.name=Botas do Traje Espacial
 metaitem.electron_gun.name=Canhão de Eletrões
 metaitem.spectral_filter.visible_bandpass.name=Filtro Espectral Passa-faixa Visível
 metaitem.spectral_filter.near_ir_bandpass.name=Filtro Espectral Passa-faixa de Infravermelho Próximo
-metaitem.spectral_filter.mid_ir_bandpass.name=Mid Infrared Bandpass Spectral Filter
-metaitem.spectral_filter.near_uv_bandpass.name=Near Ultraviolet Bandpass Spectral Filter
-metaitem.molybdenum_combustion_chamber_mandrel.name=Molybdenum Combustion Chamber Mandrel
-metaitem.iridium_combustion_chamber_mandrel.name=Iridium-Coated Combustion Chamber Mandrel
-metaitem.rhenium_combustion_chamber_mandrel.name=Rhenium-Coated Combustion Chamber Mandrel
-metaitem.rhenium_combustion_chamber.name=Rhenium Orbital Thruster Combustion Chamber
+metaitem.spectral_filter.mid_ir_bandpass.name=Filtro Espectral Passa-faixa de Infravermelho Médio
+metaitem.spectral_filter.near_uv_bandpass.name=Filtro Espectral Passa-faixa de Ultravioleta próximo
+metaitem.molybdenum_combustion_chamber_mandrel.name=Mandril da Câmara de Combustão de Molibdénio
+metaitem.iridium_combustion_chamber_mandrel.name=Mandril da Câmara de Combustão Revestido de Irídio 
+metaitem.rhenium_combustion_chamber_mandrel.name=Mandril da Câmara de Combustão Revestido de Rénio 
+metaitem.rhenium_combustion_chamber.name=Câmara de Combustão do Propulsor Orbital de Rénio
 metaitem.lunar_module_engine.name=Lunar Module Engine
+
+
+
 tile.deposit_block.lunar_crater.name=Depósito de Cratera Lunar
+
 tile.engineersdecor.sign_caution.name=§6Sinal "Atenção"§r
 
 # Fluids
 
-susy.material.smoke_bomb_mix=Smoke Bomb Mix
-susy.material.sugary_water=Sugary Water
-susy.material.clarified_sugary_water=Clarified Sugary Water
-susy.material.diluted_oil_light=Diluted Light Oil
-susy.material.diluted_oil=Diluted Oil
-susy.material.diluted_oil_heavy=Diluted Heavy Oil
-susy.material.desalted_oil_light=Desalted Light Oil
-susy.material.desalted_oil=Desalted Oil
-susy.material.desalted_oil_heavy=Desalted Heavy Oil
+susy.material.smoke_bomb_mix=Mistura para Bombas de Fumo
+susy.material.sugary_water=Água Açucarada
+susy.material.clarified_sugary_water=Água Açucarada clarificada
+susy.material.diluted_oil_light=Petróleo Ligero Diluído
+susy.material.diluted_oil=Petróleo Diluído
+susy.material.diluted_oil_heavy=Petróleo Pesado Diluído
+susy.material.desalted_oil_light=Petróleo Ligero Dessalinizado
+susy.material.desalted_oil=Petróleo Dessalinizado
+susy.material.desalted_oil_heavy=Petróleo Pesado Dessalinizado
 susy.material.brine=Brine
 susy.material.warm_brine=Warm Brine
 susy.material.oily_brine=Oily Brine
