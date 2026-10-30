@@ -539,19 +539,21 @@ metaitem.molybdenum_combustion_chamber_mandrel.name=Mandril da Câmara de Combus
 metaitem.iridium_combustion_chamber_mandrel.name=Mandril da Câmara de Combustão Revestido de Irídio 
 metaitem.rhenium_combustion_chamber_mandrel.name=Mandril da Câmara de Combustão Revestido de Rénio 
 metaitem.rhenium_combustion_chamber.name=Câmara de Combustão do Propulsor Orbital de Rénio
-metaitem.lunar_module_engine.name=Lunar Module Engine
+metaitem.lunar_module_engine.name=Motor do Módulo Lunar
 
 
 
 tile.deposit_block.lunar_crater.name=Depósito de Cratera Lunar
 
 tile.engineersdecor.sign_caution.name=§6Sinal "Atenção"§r
+item.industrialrenewal.cart_linkable.name=Cart Linker
 
 # Fluids
 
 susy.material.smoke_bomb_mix=Mistura para Bombas de Fumo
 susy.material.sugary_water=Água Açucarada
 susy.material.clarified_sugary_water=Água Açucarada clarificada
+
 susy.material.diluted_oil_light=Petróleo Ligero Diluído
 susy.material.diluted_oil=Petróleo Diluído
 susy.material.diluted_oil_heavy=Petróleo Pesado Diluído
@@ -3491,6 +3493,7 @@ gas.gaspunk.carbon_monoxide=Carbon Monoxide
 gas.gaspunk.hydrochloric_acid=Hydrochloric Acid
 gas.gaspunk.hydrofluoric_acid=Hydrofluoric Acid
 gas.gaspunk.novichok=Novichok A-230 Nerve Agent
+gas.gaspunk.copium=Copium
 
 # Metaitems
 
@@ -4116,6 +4119,8 @@ recipemap.electric_blast_furnace.name=Resistance Furnace
 gregtechfoodoption.machine.greenhouse.name=Arboretum
 recipemap.greenhouse.name=Arboretum
 fluid.gregtech.material.ice.liquid_generic=Ice Slurry
+metaitem.component.resistor.name=Sub-Optimal Ceramic Component
+metaitem.component.resistor.tooltip=§7§oWhat am I expected to use these for?
 
 
 # Material Renaming
