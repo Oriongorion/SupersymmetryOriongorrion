@@ -1101,15 +1101,15 @@ susy.material.chloroauric_acid_solution=Solução de Ácido Cloroáurico
 susy.material.sodium_nitrite=Nitrito de Sódio
 susy.material.sodium_oxide=Óxido de Sódio
 susy.material.gold_amalgam=Amalgama de Ouro
-susy.material.decarburized_air=Ar Descarburado
+susy.material.decarburized_air=Ar Ar Descarbonizado
 susy.material.liquid_deoxygenated_argon=Árgon Líquido Desoxigenado
-susy.material.liquid_waste_nitrogen=Resíduo de Azoto Líquido
+susy.material.liquid_waste_nitrogen=Resíduo de Nitrogénio Líquido
 susy.material.alkali_fused_wulfenite=Wulfenita Fundida com Álcali
 susy.material.lead_ii_hydroxide=Hidróxido de Chumbo (II)
 susy.material.sodium_molybdate_solution=Solução de Molibdato de Sódio
 susy.material.zinc_oxide=Óxido de Zinco
 susy.material.spent_fuel_suspension=Suspensão de Combustível Irradiado
-susy.material.spent_fuel_solution=Solução de combustível irradiado
+susy.material.spent_fuel_solution=Solução de Combustível irradiado
 susy.material.uranium_plutonium_extract=Extrato de Urânio-Plutónio
 susy.material.transuranium_solution=Solução de Transurânio
 susy.material.reprocessed_uranium_extract=Extrato de Urânio Reprocessado
@@ -1177,8 +1177,8 @@ susy.material.hydrogen_helium_mixture=Mistura de Hidrogénio-Hélio
 susy.material.pure_gaseous_titanium_tetrachloride=Tetracloreto de Titânio Gasoso Puro
 susy.material.yttrium_nitrate_solution=Solução de Nitrato de Ítrio
 susy.material.regolith_gases=Gases de Regolito
-susy.material.decarburized_regolith_gases=Gases de Regolito Descarbonetados
-susy.material.high_pressure_decarburized_regolith_gases=Gases de Regolito Descarbonetados a Alta Pressão
+susy.material.decarburized_regolith_gases=Gases de Regolito Descarbonizados
+susy.material.high_pressure_decarburized_regolith_gases=Gases de Regolito Descarbonizados a Alta Pressão
 susy.material.high_pressure_regolith_gases=Gases de Regolito a Alta Pressão
 susy.material.high_pressure_regolith_light_gases=Gases Leves do Regolito a Alta Pressão
 susy.material.halogen_mix=Mistura de Halogéneos
@@ -1199,132 +1199,132 @@ susy.material.zircon_monazite_concentrate=Concentrado de Zircão-Monazita
 
 # Thermodynamics
 
-susy.material.hot_hp_hydrogen=Hot High-Pressure Hydrogen
-susy.material.hp_hydrogen=High-Pressure Hydrogen
-susy.material.cold_hp_hydrogen=Cold High-Pressure Hydrogen
+susy.material.hot_hp_hydrogen=Hidrogénio Quente a Alta Pressão
+susy.material.hp_hydrogen=Hidrogénio a Alta Pressão
+susy.material.cold_hp_hydrogen=Hidrogénio Frio a Alta Pressão
 
-susy.material.hot_hp_helium=Hot High-Pressure Helium
-susy.material.hp_helium=High-Pressure Helium
-susy.material.cold_hp_helium=Cold High-Pressure Helium
+susy.material.hot_hp_helium=Hélio Quente a Alta Pressão
+susy.material.hp_helium=Hélio a Alta Pressão
+susy.material.cold_hp_helium=Hélio Frio a Alta Pressão
 
-susy.material.hot_hp_neon=Hot High-Pressure Neon
-susy.material.hp_neon=High-Pressure Neon
-susy.material.cold_hp_neon=Cold High-Pressure Neon
+susy.material.hot_hp_neon=Néon Quente a Alta Pressão
+susy.material.hp_neon=Néon a Alta Pressão
+susy.material.cold_hp_neon=Néon Frio a Alta Pressão
 
-susy.material.hot_hp_argon=Hot High-Pressure Argon
-susy.material.hp_argon=High-Pressure Argon
-susy.material.cold_hp_argon=Cold High-Pressure Argon
+susy.material.hot_hp_argon=Árgon Quente a Alta Pressão
+susy.material.hp_argon=Árgon a Alta Pressão
+susy.material.cold_hp_argon=Árgon Frio a Alta Pressão
 
-susy.material.hot_hp_krypton=Hot High-Pressure Krypton
-susy.material.hp_krypton=High-Pressure Krypton
-susy.material.cold_hp_krypton=Cold High-Pressure Krypton
+susy.material.hot_hp_krypton=Crípton Quente a Alta Pressão
+susy.material.hp_krypton=Crípton a Alta Pressão
+susy.material.cold_hp_krypton=Crípton Frio a Alta Pressão
 
-susy.material.hot_hp_xenon=Hot High-Pressure Xenon
-susy.material.hp_xenon=High-Pressure Xenon
-susy.material.cold_hp_xenon=Cold High-Pressure Xenon
+susy.material.hot_hp_xenon=Xénon Quente a Alta Pressão
+susy.material.hp_xenon=Xénon a Alta Pressão
+susy.material.cold_hp_xenon=Xénon Frio a Alta Pressão
 
-susy.material.hot_hp_oxygen=Hot High-Pressure Oxygen
-susy.material.hp_oxygen=High-Pressure Oxygen
-susy.material.cold_hp_oxygen=Cold High-Pressure Oxygen
+susy.material.hot_hp_oxygen=Oxigénio Quente a Alta Pressão
+susy.material.hp_oxygen=Oxigénio a Alta Pressão
+susy.material.cold_hp_oxygen=Oxigénio Frio a Alta Pressão
 
-susy.material.hot_hp_nitrogen=Hot High-Pressure Nitrogen
-susy.material.hp_nitrogen=High-Pressure Nitrogen
-susy.material.cold_hp_nitrogen=Cold High-Pressure Nitrogen
+susy.material.hot_hp_nitrogen=Nitrogénio Quente a Alta Pressão
+susy.material.hp_nitrogen=Nitrogénio a Alta Pressão
+susy.material.cold_hp_nitrogen=Nitrogénio Frio a Alta Pressão
 
-susy.material.hot_hp_propene=Hot High-Pressure Propene
-susy.material.hp_propene=High-Pressure Propene
+susy.material.hot_hp_propene=Propeno Quente a Alta Pressão
+susy.material.hp_propene=Propeno a Alta Pressão
 
-susy.material.hot_hp_benzene=Hot High-Pressure Benzene
-susy.material.hp_benzene=High-Pressure Benzene
+susy.material.hot_hp_benzene=Benzeno Quente a Alta Pressão
+susy.material.hp_benzene=Benzeno a Alta Pressão
 
-susy.material.hot_hp_carbon_monoxide=Hot High-Pressure Carbon Monoxide
-susy.material.hp_carbon_monoxide=High-Pressure Carbon Monoxide
+susy.material.hot_hp_carbon_monoxide=Monóxido de Carbono Quente a Alta Pressão
+susy.material.hp_carbon_monoxide=Monóxido de Carbono a Alta Pressão
 
-susy.material.hot_hp_argon_hydrogen_mixture=Hot High Pressure Argon-Hydrogen Mixture
-susy.material.hp_argon_hydrogen_mixture=High Pressure Argon Hydrogen Mixture
-susy.material.cold_hp_argon_hydrogen_mixture=Cold High Pressure Argon Hydrogen Mixture
+susy.material.hot_hp_argon_hydrogen_mixture=Mistura de Árgon-Hidrogénio Quente a Alta Pressão
+susy.material.hp_argon_hydrogen_mixture=Mistura de Árgon-Hidrogénio a Alta Pressão
+susy.material.cold_hp_argon_hydrogen_mixture=Mistura de Árgon-Hidrogénio Fria a Alta Pressão
 
-susy.material.liquid_hydrogen=Liquid Hydrogen
-susy.material.liquid_helium=Liquid Helium
-susy.material.liquid_neon=Liquid Neon
-susy.material.liquid_argon=Liquid Argon
-susy.material.liquid_krypton=Liquid Krypton
-susy.material.liquid_xenon=Liquid Xenon
-susy.material.liquid_nitrogen=Liquid Nitrogen
-susy.material.liquid_refinery_gas=Liquid Refinery Gas
-susy.material.liquid_natural_gas=Liquefied Natural Gas (LNG)
-susy.material.liquid_methane=Liquid Methane
-susy.material.liquid_decarburized_air=Liquid Decarburized Air
+susy.material.liquid_hydrogen=Hidrogénio Líquido
+susy.material.liquid_helium=Hélio Líquido
+susy.material.liquid_neon=Néon Líquido
+susy.material.liquid_argon=Árgon Líquido
+susy.material.liquid_krypton=Crípton Líquido
+susy.material.liquid_xenon=Xénon Líquido
+susy.material.liquid_nitrogen=Nitrogénio Líquido
+susy.material.liquid_refinery_gas=Gás de Refinaria Líquido
+susy.material.liquid_natural_gas=Gás Natural Liquefeito (GNL)
+susy.material.liquid_methane=Metano Líquido
+susy.material.liquid_decarburized_air=Ar Descarbonizado Líquido
 
-susy.material.hot_hp_air=Hot High-Pressure Air
-susy.material.hp_air=High-Pressure Air
-susy.material.cold_hp_air=Cold High-Pressure Air
+susy.material.hot_hp_air=Ar Quente a Alta Pressão
+susy.material.hp_air=Ar a Alta Pressão
+susy.material.cold_hp_air=Ar Frio a Alta Pressão
 
-susy.material.hot_hp_nether_air=Hot High-Pressure Nether Air
-susy.material.hp_nether_air=High-Pressure Nether Air
-susy.material.cold_hp_nether_air=Cold High-Pressure Nether Air
+susy.material.hot_hp_nether_air=Ar do Nether Quente a Alta Pressão
+susy.material.hp_nether_air=Ar do Nether a Alta Pressão
+susy.material.cold_hp_nether_air=Ar do Nether Frio a Alta Pressão
 
-susy.material.hot_hp_decarburized_air=Hot High-Pressure Decarburized Air
-susy.material.hp_decarburized_air=High-Pressure Decarburized Air
-susy.material.cold_hp_decarburized_air=Cold High-Pressure Decarburized Air
+susy.material.hot_hp_decarburized_air=Ar Descarbonizado Quente a Alta Pressão
+susy.material.hp_decarburized_air=Ar Descarbonizado a Alta Pressão
+susy.material.cold_hp_decarburized_air=Descarbonizado Frio a Alta Pressão
 
-susy.material.hot_hp_natural_gas=Hot High-Pressure Natural Gas
-susy.material.hp_natural_gas=High-Pressure Natural Gas
-susy.material.cold_hp_natural_gas=Cold High-Pressure Natural Gas
+susy.material.hot_hp_natural_gas=Gás Natural Quente a Alta Pressão
+susy.material.hp_natural_gas=Gás Natural a Alta Pressão
+susy.material.cold_hp_natural_gas=Gás Natural Frio a Alta Pressão
 
-susy.material.hot_hp_methane=Hot High-Pressure Methane
-susy.material.hp_methane=High-Pressure Methane
-susy.material.cold_hp_methane=Cold High-Pressure Methane
+susy.material.hot_hp_methane=Metano Quente a Alta Pressão
+susy.material.hp_methane=Metano a Alta Pressão
+susy.material.cold_hp_methane=Metano Frio a Alta Pressão
 
-susy.material.hot_compressed_ammonia=Hot Compressed Ammonia
-susy.material.compressed_ammonia=Compressed Ammonia
-susy.material.cold_compressed_ammonia=Cold Compressed Ammonia
-susy.material.cold_ammonia=Cold Ammonia
+susy.material.hot_compressed_ammonia=Amoníaco Comprimido Quente
+susy.material.compressed_ammonia=Amoníaco Comprimido
+susy.material.cold_compressed_ammonia=Amoníaco Comprimido Frio
+susy.material.cold_ammonia=Amoníaco Frio
 
-susy.material.hot_compressed_propane=Hot Compressed Propane
-susy.material.compressed_propane=Compressed Propane
-susy.material.cold_compressed_propane=Cold Compressed Propane
-susy.material.cold_propane=Cold Propane
+susy.material.hot_compressed_propane=Propano Comprimido Quente
+susy.material.compressed_propane=Propano Comprimido
+susy.material.cold_compressed_propane=Propano Comprimido Frio
+susy.material.cold_propane=Propano Frio
 
-susy.material.hot_compressed_carbon_dioxide=Hot Compressed Carbon Dioxide
-susy.material.compressed_carbon_dioxide=Compressed Carbon Dioxide
-susy.material.cold_compressed_carbon_dioxide=Cold Compressed Carbon Dioxide
-susy.material.cold_carbon_dioxide=Cold Carbon Dioxide
+susy.material.hot_compressed_carbon_dioxide=Dióxido de Carbono Comprimido Quente
+susy.material.compressed_carbon_dioxide=Dióxido de Carbono Comprimido
+susy.material.cold_compressed_carbon_dioxide=Dióxido de Carbono Comprimido Frio
+susy.material.cold_carbon_dioxide=Dióxido de Carbono Frio
 
-susy.material.hot_compressed_trichlorofluoromethane=Hot Compressed Trichlorofluoromethane (R-11)
-susy.material.compressed_trichlorofluoromethane=Compressed Trichlorofluoromethane (R-11)
-susy.material.cold_compressed_trichlorofluoromethane=Cold Compressed Trichlorofluoromethane (R-11)
-susy.material.cold_trichlorofluoromethane=Cold Trichlorofluoromethane (R-11)
+susy.material.hot_compressed_trichlorofluoromethane=Triclorofluorometano (R-11) Comprimido Quente
+susy.material.compressed_trichlorofluoromethane=Triclorofluorometano (R-11) Comprimido
+susy.material.cold_compressed_trichlorofluoromethane=Triclorofluorometano (R-11) Comprimido Frio
+susy.material.cold_trichlorofluoromethane=Triclorofluorometano (R-11) Frio
 
-susy.material.hot_compressed_dichlorodifluoromethane=Hot Compressed Dichlorodifluoromethane (R-12)
-susy.material.compressed_dichlorodifluoromethane=Compressed Dichlorodifluoromethane (R-12)
-susy.material.cold_compressed_dichlorodifluoromethane=Cold Compressed Dichlorodifluoromethane (R-12)
-susy.material.cold_dichlorodifluoromethane=Cold Dichlorodifluoromethane (R-12)
+susy.material.hot_compressed_dichlorodifluoromethane=Diclorodifluorometano (R-12) Comprimido Quente
+susy.material.compressed_dichlorodifluoromethane=Diclorodifluorometano (R-12) Comprimido
+susy.material.cold_compressed_dichlorodifluoromethane=Diclorodifluorometano (R-12) Comprimido Frio
+susy.material.cold_dichlorodifluoromethane=Diclorodifluorometano (R-12) Frio
 
-susy.material.hot_compressed_chlorotrifluoromethane=Hot Compressed Chlorotrifluoromethane (R-13)
-susy.material.compressed_chlorotrifluoromethane=Compressed Chlorotrifluoromethane (R-13)
-susy.material.cold_compressed_chlorotrifluoromethane=Cold Compressed Chlorotrifluoromethane (R-13)
-susy.material.cold_chlorotrifluoromethane=Cold Chlorotrifluoromethane (R-13)
+susy.material.hot_compressed_chlorotrifluoromethane=Clorotrifluorometano (R-13) Comprimido Quente
+susy.material.compressed_chlorotrifluoromethane=Clorotrifluorometano (R-13) Comprimido
+susy.material.cold_compressed_chlorotrifluoromethane=Clorotrifluorometanoe (R-13) Comprimido Frio
+susy.material.cold_chlorotrifluoromethane=Clorotrifluorometano (R-13) Frio
 
-susy.material.hot_compressed_chlorodifluoromethane=Hot Compressed Chlorodifluoromethane (R-22)
-susy.material.compressed_chlorodifluoromethane=Compressed Chlorodifluoromethane (R-22)
-susy.material.cold_compressed_chlorodifluoromethane=Cold Compressed Chlorodifluoromethane (R-22)
-susy.material.cold_chlorodifluoromethane=Cold Chlorodifluoromethane (R-22)
+susy.material.hot_compressed_chlorodifluoromethane=Clorodifluorometano (R-22) Comprimido Quente
+susy.material.compressed_chlorodifluoromethane=Clorodifluorometano (R-22) Comprimido
+susy.material.cold_compressed_chlorodifluoromethane=Clorodifluorometano (R-22) Comprimido Frio
+susy.material.cold_chlorodifluoromethane=Clorodifluorometano (R-22) Frio
 
-susy.material.hot_compressed_tetrafluoroethane=Hot Compressed Tetrafluoroethane (R-134a)
-susy.material.compressed_tetrafluoroethane=Compressed Tetrafluoroethane (R-134a)
-susy.material.cold_compressed_tetrafluoroethane=Cold Compressed Tetrafluoroethane (R-134a)
-susy.material.cold_tetrafluoroethane=Cold Tetrafluoroethane (R-134a)
+susy.material.hot_compressed_tetrafluoroethane=Tetrafluoroetano(R-134a) Comprimido Quente
+susy.material.compressed_tetrafluoroethane=Tetrafluoroetano (R-134a) Comprimido
+susy.material.cold_compressed_tetrafluoroethane=Tetrafluoroetano (R-134a) Comprimido Frio
+susy.material.cold_tetrafluoroethane=Tetrafluoroetano (R-134a) Frio
 
-susy.material.warm_water=Warm Water
-susy.material.warm_ethylene_glycol=Warm Ethylene Glycol
-susy.material.warm_salt_water=Warm Salt Water
-susy.material.warm_lubricant=Warm Lubricant
-susy.material.warm_polychlorinated_biphenyl=Warm Polychlorinated Biphenyl
-susy.material.warm_sodium_potassium=Warm Sodium Potassium
+susy.material.warm_water=Água Morna
+susy.material.warm_ethylene_glycol=Etilenoglicol Morno
+susy.material.warm_salt_water=Água Salgada Morna
+susy.material.warm_lubricant=Lubrificante Morno
+susy.material.warm_polychlorinated_biphenyl=Bifenilo Policlorado Morno
+susy.material.warm_sodium_potassium=Sódio Potássio Morno
 
-susy.material.hot_air=Hot Air
-susy.material.hot_nitrogen=Hot Nitrogen
+susy.material.hot_air=Ar Quente
+susy.material.hot_nitrogen=Nitrogénio Quente
 
 susy.material.ethylene_glycol=Ethylene Glycol
 susy.material.carbon_disulfide=Carbon Disulfide
