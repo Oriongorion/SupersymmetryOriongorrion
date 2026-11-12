@@ -1326,11 +1326,11 @@ susy.material.warm_sodium_potassium=Sódio Potássio Morno
 susy.material.hot_air=Ar Quente
 susy.material.hot_nitrogen=Nitrogénio Quente
 
-susy.material.ethylene_glycol=Ethylene Glycol
-susy.material.carbon_disulfide=Carbon Disulfide
-susy.material.iron_sulfate=Iron Sulfate
-susy.material.iron_ii_sulfide=Iron II Sulfide
-susy.material.copper_chloride=Copper Chloride
+susy.material.ethylene_glycol=Etilenoglicol
+susy.material.carbon_disulfide=Dissulfeto de carbono
+susy.material.iron_sulfate=Sulfato de Ferro
+susy.material.iron_ii_sulfide=Sulfeto de Ferro (II)
+susy.material.copper_chloride=Cloreto de Cobre
 susy.material.trichlorosilane=Trichlorosilane
 susy.material.purified_trichlorosilane=Purified Trichlorosilane
 susy.material.burned_black_metal=Burned Black Metal
